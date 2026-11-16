@@ -1,0 +1,14 @@
+name: hedgehog
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - geopandas
+  - pyogrio
+  - rasterio
+  - scipy
+  - scikit-learn
+  - pandas
+  - matplotlib
+  - jupyterlab
+  - ipykernel

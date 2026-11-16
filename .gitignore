@@ -221,3 +221,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Raw data: licensed or too large to share
+data/raw/
+*.zip
